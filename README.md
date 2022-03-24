@@ -344,7 +344,7 @@ Check that the data is sent on the MQTT broker [screenshot] - you can comment th
 ### Task7
 Build a Grafana Dashboard with the data received, add the [link](https://grafana.beia-telemetrie.ro/d/xcWCQgy7z/filip-osiac-libelium?orgId=1&from=1648128182049&to=1648129982049&refresh=10s) to grafana dashboard in gist comment
 
-![Read temperature](./images/grafana.jpg  "MQTT")
+![Read temperature](./images/Grafana.jpg  "MQTT")
 
 
 ## The full code can be accessed [here](./final.pde)
