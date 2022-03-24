@@ -316,7 +316,7 @@ void loop()
   delay(3000);
 }
 ```
-![Read temperature](./images/temperature.jpg  "Temperature")
+![Read temperature](./images/Temperature.jpg  "Temperature")
 
 ### Task5
 Read battery, temperature and Gas concentration and send via WiFI to meshlium **.**.**.***
